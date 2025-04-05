@@ -1,15 +1,7 @@
 {
   "USER": {
     "top_dirs": [],
-    "top_files": [
-      {
-        "tree": {
-          "name": ".zshrc",
-          "blocks": []
-        },
-        "owner": "zsh"
-      }
-    ]
+    "top_files": []
   },
   "SYSTEM": {
     "top_dirs": [],
