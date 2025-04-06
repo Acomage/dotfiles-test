@@ -136,7 +136,15 @@
         "owner": "nvim"
       }
     ],
-    "top_files": []
+    "top_files": [
+      {
+        "tree": {
+          "name": ".zshrc",
+          "blocks": []
+        },
+        "owner": "zsh"
+      }
+    ]
   },
   "SYSTEM": {
     "top_dirs": [],
